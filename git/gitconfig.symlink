@@ -1,8 +1,8 @@
 [hub]
         protocol = https
 [user]
-        name = Eric Baer
-        email = eric.baer@readytalk.com
+        name = Marina Nunamaker
+        email = marina.nunamaker@readytalk.com
 [credential]
         helper = osxkeychain
 [alias]
